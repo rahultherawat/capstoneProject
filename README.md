@@ -1,2 +1,2 @@
 # capstoneProject
-final years project 
+final year project 
